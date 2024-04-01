@@ -1,4 +1,4 @@
-#include "altair_mcu.h"
+#include "src/altair_mcu.h"
 
 void setup() {
   altair::begin();
