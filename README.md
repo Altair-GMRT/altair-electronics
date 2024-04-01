@@ -9,4 +9,4 @@ This folder contains the Arduino IDE source code for the Altair MCU's firmware. 
 4. [**Adafruit BNO055**](https://github.com/adafruit/Adafruit_BNO055)
 
 ## **2. design/**
-This folder contains the Eagle/Fusion schematics and board designs, including the ```.lbr``` files used.
+This folder contains the Eagle/Fusion schematics and board designs, including the libraries used.
