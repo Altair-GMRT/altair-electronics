@@ -1,5 +1,9 @@
 # **altair-electronics**
 
+![Board View 1](https://github.com/Altair-GMRT/altair-electronics/blob/main/design/v1.0/altair_brd_3d1.png?raw=true)
+![Board View 2](https://github.com/Altair-GMRT/altair-electronics/blob/main/design/v1.0/altair_brd_3d2.png?raw=true)
+![Board View 3](https://github.com/Altair-GMRT/altair-electronics/blob/main/design/v1.0/altair_brd_3d3.png?raw=true)
+
 ## **1. Contents**
 
 - **altair-mcu/**
