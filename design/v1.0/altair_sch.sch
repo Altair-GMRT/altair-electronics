@@ -8520,8 +8520,13 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <segment>
 <wire x1="-17.78" y1="-91.44" x2="-17.78" y2="-104.14" width="0.1524" layer="91"/>
 <wire x1="-17.78" y1="-104.14" x2="-12.7" y2="-104.14" width="0.1524" layer="91"/>
-<label x="-15.24" y="-104.14" size="1.778" layer="95" xref="yes"/>
+<label x="-12.7" y="-104.14" size="1.778" layer="95" xref="yes"/>
 <pinref part="JP3" gate="A" pin="5"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="SENSOR_VN"/>
+<wire x1="-119.38" y1="-106.68" x2="-124.46" y2="-106.68" width="0.1524" layer="91"/>
+<label x="-124.46" y="-106.68" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
 <net name="DATA" class="0">
